@@ -1,0 +1,8 @@
+HopDong;HD10;Nguyen Lan Anh;1998;Nguyen Bao, Le Thi Lan; 3.4
+TheoGio;TG44;Tran Lan Huong;1991;Truc van phong;4000
+TheoGio;TG12;Nguyen An;1999;Tiep khach,Tro giang;8000
+TheoGio;TG44;Tran Lan Huong;2005;Tiep khach,Giang vien,Quan ly can bo;8000
+HopDong;HD01;Nguyen Anh Thu;1999;Nguyen An,Dao Thi Bich, Tran Lan Huong;2.34
+HopDong;HD21;Phan Huy Duc;2005;Pham Van Hung,Trinh Lan,Pham Anh Loan;2.4
+TheoGio;TG53; Dao Thi Bich;2000;Tro giang;6000
+HopDong;HD35;Le Thi Lan;1991;Phan Van Chuan,Phan Thi Anh Loan;4.41
