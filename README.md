@@ -6,7 +6,7 @@
 
 Dự án "Quản Lý Nhân Viên" là một ứng dụng console được phát triển bằng C# với mục đích giúp quản lý thông tin của các nhân viên trong một công ty. Hệ thống này được thiết kế để lưu trữ, truy xuất và xử lý thông tin của các loại nhân viên khác nhau.
 
-Dự án này là kết quả của series bài giảng trên YouTube của kênh [DalatCoder](https://www.youtube.com/c/DalatCoder), nhằm mục đích ôn tập và thực hành các kiến thức liên quan đến lập trình hướng đối tượng (OOP) với ngôn ngữ C#. Series bài giảng có thể được truy cập tại: [https://www.youtube.com/playlist?list=PLprElE4eCkKeHs9EWpQWr0AtxJD_16V8N](https://www.youtube.com/playlist?list=PLprElE4eCkKeHs9EWpQWr0AtxJD_16V8N).
+Dự án này là kết quả của series bài giảng trên YouTube của kênh [DalatCoder](https://www.youtube.com/@DalatCoder), nhằm mục đích ôn tập và thực hành các kiến thức liên quan đến lập trình hướng đối tượng (OOP) với ngôn ngữ C#. Series bài giảng có thể được truy cập tại: [https://www.youtube.com/playlist?list=PLprElE4eCkKeHs9EWpQWr0AtxJD_16V8N](https://www.youtube.com/playlist?list=PLprElE4eCkKeHs9EWpQWr0AtxJD_16V8N).
 
 Thông qua dự án này, người học có thể nắm vững các khái niệm cơ bản trong lập trình hướng đối tượng như: lớp, đối tượng, giao diện, kế thừa, đa hình, và áp dụng chúng vào việc giải quyết bài toán thực tế.
 
